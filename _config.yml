@@ -13,13 +13,13 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "توررنگ آتشی"
-title_separator          : "-"
-name                     : "Poorang" 
+title                    : "ayda reyhani"
+title_separator          : "_"
+name                     : "ayda" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : ayda_r
 facebook:
-  username               : sauleh.eetemadi
+  username               : ayda_reyhani
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -107,16 +107,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Toorrang Atashi"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm the best student.
+  name             : "ayda reyhani"
+  avatar           : ""
+  bio              : live for yourself.
   location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
+  email            : ayddryhn@gmail.com
+  twitter: 
+  linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: ayda0607
+  instagram: ___ayda___
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
