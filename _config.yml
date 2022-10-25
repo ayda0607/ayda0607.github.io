@@ -84,7 +84,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : ayda_r
+  username               : ayda_reyhani
 facebook:
   username               : ayda_reyhani
   app_id                 :
@@ -141,7 +141,7 @@ author:
       url: "http://calendly.com/pourrang_atashi"
     - label: "Telegram"
       icon: "fab fa-telegram"
-      url: "http://t.me/Sauleh"
+      url: "http://t.me/ayda"
 
 # Site Footer
 footer:
